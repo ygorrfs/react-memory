@@ -19,7 +19,7 @@ export const Info = styled.div`
 
     @media (max-width: 750px) {
         margin-bottom: 50px;
-        align-items: center; // Correção aqui
+        align-items: center;
     }
 `;
 
